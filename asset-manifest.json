@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-rest/static/css/main.238e6a43.css",
+    "main.js": "/react-rest/static/js/main.c6c83343.js",
+    "static/js/787.bf3b84ad.chunk.js": "/react-rest/static/js/787.bf3b84ad.chunk.js",
+    "static/media/center.jpeg": "/react-rest/static/media/center.73e62d9a568c4d07817a.jpeg",
+    "static/media/dish-dosa.jpg": "/react-rest/static/media/dish-dosa.a8623191419f7e97f85a.jpg",
+    "static/media/mini-idle.jpg": "/react-rest/static/media/mini-idle.91cf2c77beec947cc9c2.jpg",
+    "static/media/ghee-roast.jpg": "/react-rest/static/media/ghee-roast.b464390728cbeb33f6bc.jpg",
+    "static/media/idli-vada.png": "/react-rest/static/media/idli-vada.4ebbefdde4f99eb99504.png",
+    "index.html": "/react-rest/index.html",
+    "main.238e6a43.css.map": "/react-rest/static/css/main.238e6a43.css.map",
+    "main.c6c83343.js.map": "/react-rest/static/js/main.c6c83343.js.map",
+    "787.bf3b84ad.chunk.js.map": "/react-rest/static/js/787.bf3b84ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.238e6a43.css",
+    "static/js/main.c6c83343.js"
+  ]
+}
